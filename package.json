@@ -75,7 +75,7 @@
     "@types/google.maps": "^3.58.1",
     "@types/node": "^20.10.0",
     "@types/react": "^18.2.45",
-    "@types/react-dom": "^18.2.18",
+    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^4.3.1",
     "concurrently": "^8.2.2",
     "electron": "^40.1.0",
