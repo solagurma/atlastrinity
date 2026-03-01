@@ -103,7 +103,7 @@
     "@modelcontextprotocol/server-puppeteer": "^2025.5.12",
     "@modelcontextprotocol/server-sequential-thinking": "^2025.12.18",
     "ajv": "^8.18.0",
-    "chrome-devtools-mcp": "^0.12.1",
+    "chrome-devtools-mcp": "^0.18.1",
     "cloudinary": "^2.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
